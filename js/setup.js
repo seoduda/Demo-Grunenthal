@@ -15,7 +15,7 @@ Setup.prototype.constructor = Setup;
 $.extend(Setup.prototype, {
     font: function(fontSize) {
         return this.basicFont = {
-            font: fontSize + "pt slkscr",
+            font: fontSize + "Calibri",
             fill: 0x000000
         };
     },
@@ -47,8 +47,10 @@ $.extend(Setup.prototype, {
         game.stage.smoothed = false;
 
 
-        game.load.image('bg', 'img/bg_game.png');
-        game.load.image('prebg','img/bg_game_2.png');
+
+        game.load.image('bg', 'img/c1/bg_2png.png');
+        game.load.image('porta', 'img/c1/porta_1.png');
+        game.load.image('prebg','img/c1/bg_2png.png');
 
         /*
         game.load.image('best', 'assets/imgs/ms_best.png');
@@ -70,10 +72,10 @@ $.extend(Setup.prototype, {
         */
     },
     loadSounds: function() {
-
+        /*
         game.load.audio('song', ['sounds/monstershift.ogg', 'sounds/monstershift.mp3']);
         game.load.audio('intro', ['sounds/ms_intro.ogg', 'sounds/ms_intro.mp3']);
-        /*
+
         game.load.audio('song', 'sounds/WWandS.MP3');
         game.load.audio('intro', 'sounds/Autumn.MP3');
         */
