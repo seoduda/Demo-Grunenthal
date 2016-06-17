@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+#bg_fundo{
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:0;
+}
+
+#background{
+	position:absolute;
+	top:2.5px;;
+	left:450px;
+	border:0.1px #FFFFFF solid;
+}
+
+
+#predio{
+	position:absolute;
+	top:405px;
+	left:670px;
+}
+
+#poste1{
+	position:absolute;
+	top:629px;
+	left:891px;
+}
+
+#poste2{
+	position:absolute;
+	top:629px;
+	left:965px;
+	z-index:3;
+}
+
+#porta{
+	position:absolute;
+	top:629px;
+	left:909px;
+	z-index:2;
+}
+
+#coracao{
+	position:absolute;
+	top:335px;
+	left:777px;
+}

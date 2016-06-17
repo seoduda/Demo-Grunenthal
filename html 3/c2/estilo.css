@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#background{
+	position:absolute; 
+	left:550px;
+	top:0px;
+}
+
+#rh{
+	position:absolute;
+	left:1150px;
+	top:320px;
+}
+
+#com{
+	position:absolute;
+	left:695px;
+	top:340px;
+}
+
+#voltar{
+	position:absolute;
+	left:565px;
+	top:20px;
+}
+
+#duvida{
+	position:absolute;
+	left:1295px;
+	top:20px;
+}

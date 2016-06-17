@@ -1,0 +1,192 @@
+@charset "utf-8";
+/* CSS Document */
+
+#background{
+	position:absolute; 
+	left:550px;
+	top:0px;
+}
+
+#voltar{
+	position:absolute;
+	left:565px;
+	top:20px;
+}
+
+#duvida{
+	position:absolute;
+	left:1295px;
+	top:20px;
+}
+
+#mesa{
+	position:absolute;
+	left:565px;
+	top:270px;
+	opacity:0;
+	display:none;
+}
+#painel{
+	position:absolute;
+	left:730px;
+	top:140px;
+	opacity:0;
+	display:none;
+}
+
+	
+/* Começa aqui botões jogáveis que iram ficar do lado esquerdo */
+
+#bte1{
+	position:absolute;
+	left:560px;
+	top:88px;
+	z-index:2;
+}
+
+#bte2{
+	position:absolute;
+	left:560px;
+	top:145px;
+	z-index:2;
+}
+
+#bte3{
+	position:absolute;
+	left:560px;
+	top:200px;
+	z-index:2;
+}
+
+#bte4{
+	position:absolute;
+	left:560px;
+	top:257px;
+	z-index:2;
+	
+}
+
+#bte5{
+	position:absolute;
+	left:560px;
+	top:315px;
+	z-index:2;
+}
+
+#bte6{
+	position:absolute;
+	left:560px;
+	top:370px;
+	z-index:2;
+}
+
+#bte7{
+	position:absolute;
+	left:560px;
+	top:427px;
+	z-index:2;
+}
+
+/* Começa aqui botões jogáveis que iram ficar do lado direito */
+
+#btd1{
+	position:absolute;
+	left:1150px;
+	top:80px;
+	z-index:2;
+}
+
+#btd2{
+	position:absolute;
+	left:1150px;
+	top:135px;
+	z-index:2;
+}
+
+#btd3{
+	position:absolute;
+	left:1000px;
+	top:190px;
+	z-index:2;
+}
+
+#btd4{
+	position:absolute;
+	left:1028px;
+	top:248px;
+	z-index:2;
+}
+
+#btd5{
+	position:absolute;
+	left:1156px;
+	top:305px;
+	z-index:2;
+}
+
+#btd6{
+	position:absolute;
+	left:1062px;
+	top:360px;
+	z-index:2;
+}
+
+#btd7{
+	position:absolute;
+	left:847px;
+	top:417px;
+	z-index:2;
+}
+
+
+
+/*ligações*/
+
+#lig_proteger{
+	position:absolute;
+	left:720px;
+	top:105px;
+	z-index:1;
+}
+
+#lig_fomentar{
+	position:absolute;
+	left:720px;
+	top:165px;
+	z-index:1;
+}
+
+#lig_engajar{
+	position:absolute;
+	left:720px;
+	top:215px;
+	z-index:1;
+}
+
+#lig_lidar{
+	position:absolute;
+	left:720px;
+	top:80px;
+	z-index:1;
+}
+
+#lig_atualizar{
+	position:absolute;
+	left:720px;
+	top:230px;
+	z-index:1;
+}
+
+#lig_criar{
+	position:absolute;
+	left:720px;
+	top:385px;
+	z-index:1;
+}
+
+#lig_gerenciar{
+	position:absolute;
+	left:720px;
+	top:130px;
+	z-index:1;
+}

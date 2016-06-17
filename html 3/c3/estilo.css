@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+#background{
+	position:absolute; 
+	left:550px;
+	top:0px;
+}
+
+#voltar{
+	position:absolute;
+	left:565px;
+	top:20px;
+}
+
+#duvida{
+	position:absolute;
+	left:1295px;
+	top:20px;
+}
+
+/* Começa aqui botões jogáveis que iram ficar do lado esquerdo */
+
+#bte1{
+	position:absolute;
+	left:590px;
+	top:50px;
+}
+
+#bte2{
+	position:absolute;
+	left:640px;
+	top:120px;
+}
+
+#bte3{
+	position:absolute;
+	left:640px;
+	top:220px;
+}
+
+#bte4{
+	position:absolute;
+	left:660px;
+	top:300px;
+}
+
+#bte5{
+	position:absolute;
+	left:560px;
+	top:350px;
+}
+
+#bte6{
+	position:absolute;
+	left:580px;
+	top:430px;
+}
+
+#bte7{
+	position:absolute;
+	left:650px;
+	top:500px;
+}
+
+/* Começa aqui botões jogáveis que iram ficar do lado direito */
+
+#btd1{
+	position:absolute;
+	left:1000px;
+	top:500px;
+}
+
+#btd2{
+	position:absolute;
+	left:1050px;
+	top:120px;
+}
+
+#btd3{
+	position:absolute;
+	left:950px;
+	top:220px;
+}
+
+#btd4{
+	position:absolute;
+	left:1000px;
+	top:300px;
+}
+
+#btd5{
+	position:absolute;
+	left:1100px;
+	top:360px;
+}
+
+#btd6{
+	position:absolute;
+	left:980px;
+	top:430px;
+}
+
+#btd7{
+	position:absolute;
+	left:850px;
+	top:60px;
+}

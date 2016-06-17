@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#background{
+	position:absolute; 
+	left:550px;
+	top:0px;
+}
+
+#voltar{
+	position:absolute;
+	left:565px;
+	top:20px;
+}
+
+#duvida{
+	position:absolute;
+	left:1295px;
+	top:20px;
+}
+
+#coracao{
+	position:absolute;
+	left:778px;
+	top:20px;
+}
+
+#mesa{
+	position:absolute;
+	left:565px;
+	top:270px;
+}
+#painel{
+	position:absolute;
+	left:730px;
+	top:140px;
+}	
+	
+	
+	
+/*todos os botões necessários para o game se encontram com suas respectivas divs, alguns estão com opacidade pela questão de organização da tela*/	
+	
+	
+
